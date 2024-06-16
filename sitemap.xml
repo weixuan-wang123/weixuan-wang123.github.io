@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://weixuan-wang123.github.io/cv/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://weixuan-wang123.github.io/</loc>
     <lastmod>2019-05-02T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -86,10 +90,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://weixuan-wang123.github.io/challenges/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://weixuan-wang123.github.io/cv/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
