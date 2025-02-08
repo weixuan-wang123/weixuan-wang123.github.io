@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weixuan Wang</title>
+    <link>https://weixuan-wang123.github.io/</link>
+    <description>Recent content on Weixuan Wang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Aug 2016 17:51:42 +0000</lastBuildDate>
+    <atom:link href="https://weixuan-wang123.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://weixuan-wang123.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://weixuan-wang123.github.io/cv/</guid>
+      <description>Download CV&#xA;Education PhD in Informatics — University of Edinburgh — 2023-Now 3-year doctoral programme at the Institute for Language, Cognition and Computation (ILCC), working with the StatMT group. Working on multilingual LLMs, interpretability of LLMs, NMT. Supervised by Dr. Alexandra Birch and Dr. Barry Haddow. MSc in Computer Science — Dalian University of Technology — 2017-2020 3-year postgraduate degree in Software Engineering, specialised in Natural Language Processing. Working on Neural Machine Translation.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://weixuan-wang123.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://weixuan-wang123.github.io/projects/</guid>
+      <description>Large Commercial Neural Machine Translation January 2023 to September 2023 Responsibility: developing commercial NMT with LLM, designing the multilingual training data proportion Achievements: Performance based on PanGu LLM on par with existing end-to-end NMT model in 10+ languages End-to-end Simultaneous Speech Translation July 2022 to May 2023 Responsibility: designing and evaluating the first end-to-end simultaneous translation system for Huawei meeting Achievements: The end-to-end simultaneous translation system has lower latency and higher performance than the cascaded translation system Cascade Simultaneous Speech Translation June 2021 to July 2022 Responsibility: designing and developing cascade simultaneous translation system for Huawei meeting Achievements: SST end-to-end BLEU scores (EN&amp;lt;-&amp;gt; ZH) on par with existing commercial systems; The service successfully supported 110 + online conference sessions and 30 + onsite SST translation service for 2021/2022 Huawei STW event Knowledge-enhanced NMT September 2020 to May 2021 Responsibility: designing, implementing and evaluating knowledge-enhance NMT algorithms based on topic modelling and homographic representation learning (HDR) Achievements: BLEU enhancement on the vanllia transformer Topic-enhanced model (+1.</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>https://weixuan-wang123.github.io/posts/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://weixuan-wang123.github.io/posts/publications/</guid>
+      <description>Selected Publications Retrieval-Augmented Multilingual Knowledge Editing&#xD;[paper] [code] [website] [dataset]&#xD;Weixuan Wang, Barry Haddow, Alexandra Birch&#xD;In Proceedings of 62nd Annual Meeting of the Association for Computational Linguistics, (ACL), 2024&#xD;Assessing the reliability of large language model knowledge&#xD;[paper] [code] [website] [dataset] [slides]&#xD;Weixuan Wang, Barry Haddow, Alexandra Birch, Wei Peng In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, (NAACL, oral)&#xD;Neural Machine Translation with Heterogeneous Topic Knowledge Embeddings&#xD;[paper] [code] [website] Weixuan Wang, Wei Peng, Meng Zhang, Qun Liu In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)&#xD;Publications Weixuan Wang.</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>https://weixuan-wang123.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://weixuan-wang123.github.io/publications/</guid>
+      <description>Selected Publications Semantics-Adaptive Activation Intervention for LLMs via Dynamic Steering Vectors&#xD;[paper] [code] [website]&#xD;Weixuan Wang, Jingyuan Yang, Wei Peng&#xD;In The Thirteenth International Conference on Learning Representations, (ICLR), 2025&#xD;Retrieval-Augmented Multilingual Knowledge Editing&#xD;[paper] [code] [website] [dataset]&#xD;Weixuan Wang, Barry Haddow, Alexandra Birch&#xD;In Proceedings of 62nd Annual Meeting of the Association for Computational Linguistics, (ACL), 2024&#xD;Assessing the reliability of large language model knowledge&#xD;[paper] [code] [website] [dataset] [slides]&#xD;Weixuan Wang, Barry Haddow, Alexandra Birch, Wei Peng In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, (NAACL, oral)&#xD;Publications Weixuan Wang, Jingyuan Yang, &amp;amp; Wei Peng.</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>https://weixuan-wang123.github.io/about/</link>
+      <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
+      <guid>https://weixuan-wang123.github.io/about/</guid>
+      <description>Github: monkeyWzr</description>
+    </item>
+    <item>
+      <title>Challenges</title>
+      <link>https://weixuan-wang123.github.io/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://weixuan-wang123.github.io/challenges/</guid>
+      <description>WMT 2022 biomedical shared tasks Responsibility: lead model training and finetuning for WMT 22 biomedical machine translation shared task Achievements: four 1st place for 5 language directions (English&amp;lt;-&amp;gt;Italian, English&amp;lt;-&amp;gt;Portuguese, Chinese-&amp;gt;English), 1 shared-task publication WMT 2021 biomedical shared tasks Responsibility: lead model training and finetuning for WMT 21 biomedical machine translation shared task Achievements: four 1st place for 4 language directions (English-&amp;gt;French, English&amp;lt;-&amp;gt;Italian, Chinese-&amp;gt;English) and three runner-up for English-&amp;gt;German, English-&amp;gt;Chinese, French-&amp;gt;English, 1 shared-task publication 2016 Mathematical Contest In Modeling (MCM) Responsibility: select the clustering model to solve “Refugee migration” problem and design the methods to improve the generalization ability and scalability of the model.</description>
+    </item>
+  </channel>
+</rss>
