@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>EMNLP25 Findings | Weixuan Wang</title><link>https://weixuan-wang123.github.io/tags/emnlp25-findings/</link><atom:link href="https://weixuan-wang123.github.io/tags/emnlp25-findings/index.xml" rel="self" type="application/rss+xml"/><description>EMNLP25 Findings</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate><image><url>https://weixuan-wang123.github.io/media/icon_hu_e5e9d60a72fc8280.png</url><title>EMNLP25 Findings</title><link>https://weixuan-wang123.github.io/tags/emnlp25-findings/</link></image><item><title>Demystifying Multilingual Reasoning in Process Reward Modeling</title><link>https://weixuan-wang123.github.io/publications/emnlp25/</link><pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate><guid>https://weixuan-wang123.github.io/publications/emnlp25/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EMNLP25 Findings | Weixuan Wang</title>
+    <link>https://weixuan-wang123.github.io/tags/emnlp25-findings/</link>
+      <atom:link href="https://weixuan-wang123.github.io/tags/emnlp25-findings/index.xml" rel="self" type="application/rss+xml" />
+    <description>EMNLP25 Findings</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://weixuan-wang123.github.io/media/icon_hu_e5e9d60a72fc8280.png</url>
+      <title>EMNLP25 Findings</title>
+      <link>https://weixuan-wang123.github.io/tags/emnlp25-findings/</link>
+    </image>
+    
+    <item>
+      <title>Demystifying Multilingual Reasoning in Process Reward Modeling</title>
+      <link>https://weixuan-wang123.github.io/publications/emnlp25/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://weixuan-wang123.github.io/publications/emnlp25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

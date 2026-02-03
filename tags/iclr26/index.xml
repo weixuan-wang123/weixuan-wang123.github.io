@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICLR26 | Weixuan Wang</title>
+    <link>https://weixuan-wang123.github.io/tags/iclr26/</link>
+      <atom:link href="https://weixuan-wang123.github.io/tags/iclr26/index.xml" rel="self" type="application/rss+xml" />
+    <description>ICLR26</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://weixuan-wang123.github.io/media/icon_hu_e5e9d60a72fc8280.png</url>
+      <title>ICLR26</title>
+      <link>https://weixuan-wang123.github.io/tags/iclr26/</link>
+    </image>
+    
+    <item>
+      <title>HBO: Hierarchical Balancing Optimization for Fine-Tuning Large Language Models</title>
+      <link>https://weixuan-wang123.github.io/publications/hbo/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://weixuan-wang123.github.io/publications/hbo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Summarize by Learning to Quiz: Adversarial Agentic Collaboration for Long Document Summarization</title>
+      <link>https://weixuan-wang123.github.io/publications/summq/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://weixuan-wang123.github.io/publications/summq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
